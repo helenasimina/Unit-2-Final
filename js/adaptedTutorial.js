@@ -1,4 +1,5 @@
-// Add all scripts to the JS folder
+/* Map of GeoJSON data from MegaCities.geojson */
+//declare map var in global scope
 var map;
 //function to instantiate the Leaflet map
 function createMap(){
@@ -8,15 +9,13 @@ function createMap(){
         zoom: 2
     });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
-    minZoom: 0,
-    maxZoom: 20,
-    attribution:  '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    //add OSM base tilelayer
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+    }).addTo(map);
 
-}).addTo(map);
-
-   //call getData function
-   getData();
+    //call getData function
+    getData();
 };
 
 //create function for oneach feature pop ups
@@ -34,7 +33,7 @@ function onEachFeature(feature, layer) {
 //function to retrieve the data and place it on the map
 function getData(){
     //load the data
-    fetch("data/MMRcountries.geojson")
+    fetch("data/MegaCities.geojson")
         .then(function(response){
             return response.json();
         })
@@ -42,7 +41,7 @@ function getData(){
             //create marker options
             var geojsonMarkerOptions = {
                 radius: 5,
-                fillColor: "#aaff00",
+                fillColor: "#006400",
                 color: "#000",
                 weight: 1,
                 opacity: 1,

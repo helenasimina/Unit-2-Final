@@ -1,0 +1,726 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Country",
+        "": 2017
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Algeria",
+        "": 112
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Australia",
+        "": 6
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Brazil",
+        "": 60
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Canada",
+        "": 10
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Ecuador",
+        "": 59
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Egypt",
+        "": 37
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "France",
+        "": 8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "India",
+        "": 145
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Mauritania",
+        "": 766
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Norway",
+        "": 2
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Philippines",
+        "": 121
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Russian Federation",
+        "": 17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Sweden",
+        "": 4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "United Kingdom",
+        "": 7
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "United States",
+        "": 19
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Country",
+        "": 2017
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Algeria",
+        "": 112
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Australia",
+        "": 6
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Brazil",
+        "": 60
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Canada",
+        "": 10
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Ecuador",
+        "": 59
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Egypt",
+        "": 37
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "France",
+        "": 8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "India",
+        "": 145
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Mauritania",
+        "": 766
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Norway",
+        "": 2
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Philippines",
+        "": 121
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Russian Federation",
+        "": 17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "Sweden",
+        "": 4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "United Kingdom",
+        "": 7
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternal Mortality Rates by Year": "United States",
+        "": 19
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 161,
+        "2001": 155,
+        "2002": 148,
+        "2003": 145,
+        "2004": 134,
+        "2005": 127,
+        "2006": 122,
+        "2007": 119,
+        "2008": 117,
+        "2009": 117,
+        "2010": 115,
+        "2011": 116,
+        "2012": 116,
+        "2013": 115,
+        "2014": 114,
+        "2015": 114,
+        "2016": 113,
+        "2017": 112,
+        "Country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9999825,
+          28.0000272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 7,
+        "2001": 6,
+        "2002": 6,
+        "2003": 6,
+        "2004": 5,
+        "2005": 5,
+        "2006": 5,
+        "2007": 5,
+        "2008": 5,
+        "2009": 5,
+        "2010": 5,
+        "2011": 6,
+        "2012": 6,
+        "2013": 6,
+        "2014": 6,
+        "2015": 6,
+        "2016": 6,
+        "2017": 6,
+        "Country": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.755,
+          -24.7761086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 69,
+        "2001": 68,
+        "2002": 69,
+        "2003": 70,
+        "2004": 71,
+        "2005": 71,
+        "2006": 72,
+        "2007": 71,
+        "2008": 70,
+        "2009": 69,
+        "2010": 65,
+        "2011": 61,
+        "2012": 60,
+        "2013": 61,
+        "2014": 62,
+        "2015": 63,
+        "2016": 62,
+        "2017": 60,
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2,
+          -10.3333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 9,
+        "2001": 10,
+        "2002": 10,
+        "2003": 10,
+        "2004": 10,
+        "2005": 11,
+        "2006": 11,
+        "2007": 11,
+        "2008": 12,
+        "2009": 12,
+        "2010": 11,
+        "2011": 11,
+        "2012": 11,
+        "2013": 11,
+        "2014": 11,
+        "2015": 11,
+        "2016": 10,
+        "2017": 10,
+        "Country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.991707,
+          61.0666922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 122,
+        "2001": 117,
+        "2002": 110,
+        "2003": 100,
+        "2004": 94,
+        "2005": 94,
+        "2006": 90,
+        "2007": 85,
+        "2008": 82,
+        "2009": 80,
+        "2010": 78,
+        "2011": 76,
+        "2012": 71,
+        "2013": 67,
+        "2014": 65,
+        "2015": 63,
+        "2016": 61,
+        "2017": 59,
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3666965,
+          -1.3397668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 64,
+        "2001": 63,
+        "2002": 60,
+        "2003": 57,
+        "2004": 54,
+        "2005": 52,
+        "2006": 50,
+        "2007": 47,
+        "2008": 45,
+        "2009": 45,
+        "2010": 45,
+        "2011": 42,
+        "2012": 42,
+        "2013": 40,
+        "2014": 39,
+        "2015": 39,
+        "2016": 38,
+        "2017": 37,
+        "Country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2675469,
+          26.2540493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 10,
+        "2001": 10,
+        "2002": 10,
+        "2003": 9,
+        "2004": 9,
+        "2005": 9,
+        "2006": 9,
+        "2007": 9,
+        "2008": 9,
+        "2009": 9,
+        "2010": 9,
+        "2011": 9,
+        "2012": 9,
+        "2013": 9,
+        "2014": 8,
+        "2015": 8,
+        "2016": 8,
+        "2017": 8,
+        "Country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883335,
+          46.603354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 370,
+        "2001": 354,
+        "2002": 336,
+        "2003": 319,
+        "2004": 303,
+        "2005": 286,
+        "2006": 270,
+        "2007": 255,
+        "2008": 240,
+        "2009": 225,
+        "2010": 210,
+        "2011": 197,
+        "2012": 185,
+        "2013": 175,
+        "2014": 166,
+        "2015": 158,
+        "2016": 150,
+        "2017": 145,
+        "Country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 834,
+        "2001": 835,
+        "2002": 836,
+        "2003": 836,
+        "2004": 830,
+        "2005": 826,
+        "2006": 821,
+        "2007": 820,
+        "2008": 819,
+        "2009": 822,
+        "2010": 824,
+        "2011": 822,
+        "2012": 812,
+        "2013": 805,
+        "2014": 796,
+        "2015": 785,
+        "2016": 777,
+        "2017": 766,
+        "Country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2399263,
+          20.2540382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 6,
+        "2001": 5,
+        "2002": 5,
+        "2003": 5,
+        "2004": 5,
+        "2005": 5,
+        "2006": 4,
+        "2007": 4,
+        "2008": 4,
+        "2009": 4,
+        "2010": 4,
+        "2011": 4,
+        "2012": 3,
+        "2013": 3,
+        "2014": 3,
+        "2015": 3,
+        "2016": 3,
+        "2017": 2,
+        "Country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7876653,
+          61.1529386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 160,
+        "2001": 163,
+        "2002": 160,
+        "2003": 156,
+        "2004": 156,
+        "2005": 156,
+        "2006": 156,
+        "2007": 149,
+        "2008": 148,
+        "2009": 149,
+        "2010": 144,
+        "2011": 141,
+        "2012": 139,
+        "2013": 136,
+        "2014": 131,
+        "2015": 127,
+        "2016": 124,
+        "2017": 121,
+        "Country": "Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7312101,
+          12.7503486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 56,
+        "2001": 53,
+        "2002": 51,
+        "2003": 49,
+        "2004": 45,
+        "2005": 42,
+        "2006": 36,
+        "2007": 32,
+        "2008": 30,
+        "2009": 27,
+        "2010": 25,
+        "2011": 23,
+        "2012": 22,
+        "2013": 20,
+        "2014": 19,
+        "2015": 18,
+        "2016": 18,
+        "2017": 17,
+        "Country": "Russian Federation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.7453061,
+          64.6863136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 5,
+        "2001": 5,
+        "2002": 5,
+        "2003": 5,
+        "2004": 5,
+        "2005": 5,
+        "2006": 5,
+        "2007": 5,
+        "2008": 5,
+        "2009": 5,
+        "2010": 4,
+        "2011": 5,
+        "2012": 5,
+        "2013": 5,
+        "2014": 5,
+        "2015": 4,
+        "2016": 4,
+        "2017": 4,
+        "Country": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5208584,
+          59.6749712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 10,
+        "2001": 11,
+        "2002": 11,
+        "2003": 11,
+        "2004": 11,
+        "2005": 11,
+        "2006": 11,
+        "2007": 11,
+        "2008": 11,
+        "2009": 10,
+        "2010": 10,
+        "2011": 9,
+        "2012": 8,
+        "2013": 8,
+        "2014": 8,
+        "2015": 8,
+        "2016": 7,
+        "2017": 7,
+        "Country": "United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2765753,
+          54.7023545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2000": 12,
+        "2001": 13,
+        "2002": 13,
+        "2003": 13,
+        "2004": 13,
+        "2005": 13,
+        "2006": 14,
+        "2007": 14,
+        "2008": 14,
+        "2009": 15,
+        "2010": 15,
+        "2011": 15,
+        "2012": 16,
+        "2013": 16,
+        "2014": 16,
+        "2015": 18,
+        "2016": 19,
+        "2017": 19,
+        "Country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      }
+    }
+  ]
+}
