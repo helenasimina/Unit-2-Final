@@ -1,19 +1,11 @@
-//GOAL: Proportional symbols representing attribute values of mapped features
-//STEPS:
-//Step 1. Create the Leaflet map--already done in createMap()
-//Step 2. Import GeoJSON data--already done in getData()
-//Step 3. Add circle markers for point features to the map--already done in AJAX callback
-//Step 4. Determine the attribute for scaling the proportional symbols
-//Step 5. For each feature, determine its value for the selected attribute
-//Step 6. Give each feature's circle marker a radius based on its attribute value
 
 var map;
 //function to instantiate the Leaflet map
 function createMap(){
     //create the map
     map = L.map('map', {
-        center: [20,-70],
-        zoom: 3.5
+        center: [45,-100],
+        zoom: 2.5
     });
 
 L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {

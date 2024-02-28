@@ -1,0 +1,1025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Alabama",
+        "Pop_1960": 29,
+        "Pop_1970": 62,
+        "Pop_1980": 132,
+        "Pop_1990": 435,
+        "Pop_2000": 720,
+        "Pop_2010": 865,
+        "Pop_2020": 722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Alaska",
+        "Pop_1960": 1,
+        "Pop_1970": 1,
+        "Pop_1980": 1,
+        "Pop_1990": 1,
+        "Pop_2000": 1,
+        "Pop_2010": 14,
+        "Pop_2020": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.680909,
+          64.4459613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Arizona",
+        "Pop_1960": 5,
+        "Pop_1970": 18,
+        "Pop_1980": 22,
+        "Pop_1990": 56,
+        "Pop_2000": 72,
+        "Pop_2010": 354,
+        "Pop_2020": 404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Arkansas",
+        "Pop_1960": 49,
+        "Pop_1970": 95,
+        "Pop_1980": 114,
+        "Pop_1990": 313,
+        "Pop_2000": 830,
+        "Pop_2010": 797,
+        "Pop_2020": 888
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "California",
+        "Pop_1960": 6,
+        "Pop_1970": 7,
+        "Pop_1980": 28,
+        "Pop_1990": 26,
+        "Pop_2000": 63,
+        "Pop_2010": 246,
+        "Pop_2020": 400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Colorado",
+        "Pop_1960": 37,
+        "Pop_1970": 24,
+        "Pop_1980": 82,
+        "Pop_1990": 179,
+        "Pop_2000": 487,
+        "Pop_2010": 873,
+        "Pop_2020": 645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Connecticut",
+        "Pop_1960": 6,
+        "Pop_1970": 5,
+        "Pop_1980": 4,
+        "Pop_1990": 14,
+        "Pop_2000": 56,
+        "Pop_2010": 228,
+        "Pop_2020": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Delaware",
+        "Pop_1960": 1,
+        "Pop_1970": 12,
+        "Pop_1980": 13,
+        "Pop_1990": 14,
+        "Pop_2000": 13,
+        "Pop_2010": 56,
+        "Pop_2020": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4013315,
+          38.6920451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "District of Columbia",
+        "Pop_1960": 1,
+        "Pop_1970": 1,
+        "Pop_1980": 4,
+        "Pop_1990": 6,
+        "Pop_2000": 7,
+        "Pop_2010": 48,
+        "Pop_2020": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98804282,
+          38.89384735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Florida",
+        "Pop_1960": 52,
+        "Pop_1970": 73,
+        "Pop_1980": 116,
+        "Pop_1990": 258,
+        "Pop_2000": 541,
+        "Pop_2010": 557,
+        "Pop_2020": 1202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Georgia",
+        "Pop_1960": 25,
+        "Pop_1970": 74,
+        "Pop_1980": 187,
+        "Pop_1990": 642,
+        "Pop_2000": 699,
+        "Pop_2010": 860,
+        "Pop_2020": 1193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Hawaii",
+        "Pop_1960": 1,
+        "Pop_1970": 1,
+        "Pop_1980": 1,
+        "Pop_1990": 1,
+        "Pop_2000": 1,
+        "Pop_2010": 60,
+        "Pop_2020": 178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Idaho",
+        "Pop_1960": 3,
+        "Pop_1970": 30,
+        "Pop_1980": 7,
+        "Pop_1990": 30,
+        "Pop_2000": 69,
+        "Pop_2010": 126,
+        "Pop_2020": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Illinois",
+        "Pop_1960": 96,
+        "Pop_1970": 117,
+        "Pop_1980": 249,
+        "Pop_1990": 278,
+        "Pop_2000": 937,
+        "Pop_2010": 1471,
+        "Pop_2020": 1073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Indiana",
+        "Pop_1960": 39,
+        "Pop_1970": 89,
+        "Pop_1980": 251,
+        "Pop_1990": 348,
+        "Pop_2000": 628,
+        "Pop_2010": 868,
+        "Pop_2020": 890
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Iowa",
+        "Pop_1960": 92,
+        "Pop_1970": 146,
+        "Pop_1980": 285,
+        "Pop_1990": 331,
+        "Pop_2000": 918,
+        "Pop_2010": 2180,
+        "Pop_2020": 1502
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3122705,
+          41.9216734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kansas",
+        "Pop_1960": 199,
+        "Pop_1970": 203,
+        "Pop_1980": 248,
+        "Pop_1990": 624,
+        "Pop_2000": 1740,
+        "Pop_2010": 2253,
+        "Pop_2020": 1851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kentucky",
+        "Pop_1960": 17,
+        "Pop_1970": 109,
+        "Pop_1980": 97,
+        "Pop_1990": 213,
+        "Pop_2000": 714,
+        "Pop_2010": 1115,
+        "Pop_2020": 1670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Louisiana",
+        "Pop_1960": 26,
+        "Pop_1970": 48,
+        "Pop_1980": 132,
+        "Pop_1990": 417,
+        "Pop_2000": 588,
+        "Pop_2010": 458,
+        "Pop_2020": 576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Maine",
+        "Pop_1960": 8,
+        "Pop_1970": 11,
+        "Pop_1980": 9,
+        "Pop_1990": 35,
+        "Pop_2000": 67,
+        "Pop_2010": 217,
+        "Pop_2020": 219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8590201,
+          45.709097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Maryland",
+        "Pop_1960": 10,
+        "Pop_1970": 39,
+        "Pop_1980": 35,
+        "Pop_1990": 108,
+        "Pop_2000": 214,
+        "Pop_2010": 487,
+        "Pop_2020": 454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9382069,
+          39.5162401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Massachusetts",
+        "Pop_1960": 9,
+        "Pop_1970": 20,
+        "Pop_1980": 6,
+        "Pop_1990": 12,
+        "Pop_2000": 97,
+        "Pop_2010": 325,
+        "Pop_2020": 307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Michigan",
+        "Pop_1960": 44,
+        "Pop_1970": 42,
+        "Pop_1980": 175,
+        "Pop_1990": 138,
+        "Pop_2000": 458,
+        "Pop_2010": 532,
+        "Pop_2020": 420
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Minnesota",
+        "Pop_1960": 35,
+        "Pop_1970": 78,
+        "Pop_1980": 255,
+        "Pop_1990": 215,
+        "Pop_2000": 589,
+        "Pop_2010": 1250,
+        "Pop_2020": 709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6113288,
+          45.9896587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Mississippi",
+        "Pop_1960": 26,
+        "Pop_1970": 124,
+        "Pop_1980": 99,
+        "Pop_1990": 335,
+        "Pop_2000": 758,
+        "Pop_2010": 1004,
+        "Pop_2020": 613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Missouri",
+        "Pop_1960": 95,
+        "Pop_1970": 210,
+        "Pop_1980": 206,
+        "Pop_1990": 191,
+        "Pop_2000": 1120,
+        "Pop_2010": 1761,
+        "Pop_2020": 1999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Montana",
+        "Pop_1960": 30,
+        "Pop_1970": 44,
+        "Pop_1980": 36,
+        "Pop_1990": 69,
+        "Pop_2000": 538,
+        "Pop_2010": 580,
+        "Pop_2020": 349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.638757,
+          47.3752671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nebraska",
+        "Pop_1960": 131,
+        "Pop_1970": 133,
+        "Pop_1980": 435,
+        "Pop_1990": 315,
+        "Pop_2000": 1026,
+        "Pop_2010": 1636,
+        "Pop_2020": 1176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nevada",
+        "Pop_1960": 1,
+        "Pop_1970": 6,
+        "Pop_1980": 7,
+        "Pop_1990": 10,
+        "Pop_2000": 12,
+        "Pop_2010": 75,
+        "Pop_2020": 168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.853722,
+          39.5158825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New Hampshire",
+        "Pop_1960": 3,
+        "Pop_1970": 12,
+        "Pop_1980": 10,
+        "Pop_1990": 14,
+        "Pop_2000": 19,
+        "Pop_2010": 142,
+        "Pop_2020": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New Jersey",
+        "Pop_1960": 7,
+        "Pop_1970": 15,
+        "Pop_1980": 18,
+        "Pop_1990": 98,
+        "Pop_2000": 88,
+        "Pop_2010": 285,
+        "Pop_2020": 169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New Mexico",
+        "Pop_1960": 25,
+        "Pop_1970": 29,
+        "Pop_1980": 14,
+        "Pop_1990": 71,
+        "Pop_2000": 83,
+        "Pop_2010": 326,
+        "Pop_2020": 425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New York",
+        "Pop_1960": 27,
+        "Pop_1970": 48,
+        "Pop_1980": 55,
+        "Pop_1990": 383,
+        "Pop_2000": 508,
+        "Pop_2010": 884,
+        "Pop_2020": 642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "North Carolina",
+        "Pop_1960": 19,
+        "Pop_1970": 84,
+        "Pop_1980": 72,
+        "Pop_1990": 315,
+        "Pop_2000": 762,
+        "Pop_2010": 1424,
+        "Pop_2020": 855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "North Dakota",
+        "Pop_1960": 34,
+        "Pop_1970": 45,
+        "Pop_1980": 237,
+        "Pop_1990": 179,
+        "Pop_2000": 482,
+        "Pop_2010": 818,
+        "Pop_2020": 477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.540737,
+          47.6201461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ohio",
+        "Pop_1960": 31,
+        "Pop_1970": 93,
+        "Pop_1980": 409,
+        "Pop_1990": 316,
+        "Pop_2000": 766,
+        "Pop_2010": 1126,
+        "Pop_2020": 921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Oklahoma",
+        "Pop_1960": 255,
+        "Pop_1970": 165,
+        "Pop_1980": 215,
+        "Pop_1990": 831,
+        "Pop_2000": 1231,
+        "Pop_2010": 905,
+        "Pop_2020": 1542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Oregon",
+        "Pop_1960": 3,
+        "Pop_1970": 7,
+        "Pop_1980": 1,
+        "Pop_1990": 9,
+        "Pop_2000": 17,
+        "Pop_2010": 96,
+        "Pop_2020": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Pennsylvania",
+        "Pop_1960": 14,
+        "Pop_1970": 102,
+        "Pop_1980": 136,
+        "Pop_1990": 388,
+        "Pop_2000": 495,
+        "Pop_2010": 842,
+        "Pop_2020": 911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Rhode Island",
+        "Pop_1960": 1,
+        "Pop_1970": 1,
+        "Pop_1980": 1,
+        "Pop_1990": 5,
+        "Pop_2000": 15,
+        "Pop_2010": 24,
+        "Pop_2020": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5992372,
+          41.7962409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "South Carolina",
+        "Pop_1960": 26,
+        "Pop_1970": 40,
+        "Pop_1980": 42,
+        "Pop_1990": 231,
+        "Pop_2000": 459,
+        "Pop_2010": 912,
+        "Pop_2020": 1112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4363743,
+          33.6874388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "South Dakota",
+        "Pop_1960": 50,
+        "Pop_1970": 86,
+        "Pop_1980": 239,
+        "Pop_1990": 169,
+        "Pop_2000": 688,
+        "Pop_2010": 1372,
+        "Pop_2020": 1056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.348761,
+          44.6471761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Tennessee",
+        "Pop_1960": 22,
+        "Pop_1970": 79,
+        "Pop_1980": 53,
+        "Pop_1990": 183,
+        "Pop_2000": 720,
+        "Pop_2010": 959,
+        "Pop_2020": 662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Texas",
+        "Pop_1960": 219,
+        "Pop_1970": 311,
+        "Pop_1980": 766,
+        "Pop_1990": 1393,
+        "Pop_2000": 2220,
+        "Pop_2010": 2174,
+        "Pop_2020": 3856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Utah",
+        "Pop_1960": 2,
+        "Pop_1970": 14,
+        "Pop_1980": 7,
+        "Pop_1990": 27,
+        "Pop_2000": 35,
+        "Pop_2010": 140,
+        "Pop_2020": 156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Vermont",
+        "Pop_1960": 7,
+        "Pop_1970": 11,
+        "Pop_1980": 10,
+        "Pop_1990": 40,
+        "Pop_2000": 24,
+        "Pop_2010": 165,
+        "Pop_2020": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Virginia",
+        "Pop_1960": 46,
+        "Pop_1970": 37,
+        "Pop_1980": 80,
+        "Pop_1990": 252,
+        "Pop_2000": 582,
+        "Pop_2010": 1697,
+        "Pop_2020": 929
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4927721,
+          37.1232245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Washington",
+        "Pop_1960": 1,
+        "Pop_1970": 4,
+        "Pop_1980": 2,
+        "Pop_1990": 2,
+        "Pop_2000": 19,
+        "Pop_2010": 63,
+        "Pop_2020": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365427,
+          38.8950368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "West Virginia",
+        "Pop_1960": 3,
+        "Pop_1970": 17,
+        "Pop_1980": 78,
+        "Pop_1990": 103,
+        "Pop_2000": 234,
+        "Pop_2010": 373,
+        "Pop_2020": 396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Wisconsin",
+        "Pop_1960": 45,
+        "Pop_1970": 81,
+        "Pop_1980": 261,
+        "Pop_1990": 163,
+        "Pop_2000": 569,
+        "Pop_2010": 960,
+        "Pop_2020": 583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6884637,
+          44.4308975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Wyoming",
+        "Pop_1960": 11,
+        "Pop_1970": 11,
+        "Pop_1980": 45,
+        "Pop_1990": 82,
+        "Pop_2000": 142,
+        "Pop_2010": 346,
+        "Pop_2020": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.568534,
+          43.1700264
+        ]
+      }
+    }
+  ]
+}
