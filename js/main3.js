@@ -1,6 +1,9 @@
 var map;
 var minValue;
 var dataStats = {};
+var minValueThreshold = 1; //FOR DEMO ONLY: display smaller values as big as threshold
+var nullThreshold = 0.2; //FOR DEMO ONLY: deal with "0" values
+
 
 //step 1 create map
 function createMap(){
@@ -107,6 +110,20 @@ function pointToLayer(feature, latlng, attributes){
 
     //create circle marker layer
     var layer = L.circleMarker(latlng, options);
+    
+    if (attValue > minValueThreshold) {
+		options.radius = calcPropRadius(attValue);
+	}
+	// assuming it's between zero and threshold min value
+	else if (attValue > nullThreshold) {
+		options.radius = 10;
+	}
+	// assuming it's zero
+	else {
+		options.radius = 10;
+		options.fillColor = "#ffffff";
+	}
+
 
     //build popup content string
     var popupContent = new PopupContent(feature.properties,attribute);
@@ -215,7 +232,6 @@ function updatePropSymbols(attribute){
 
 //create legend
 function createLegend(attributes) {
-
 	var LegendControl = L.Control.extend({
 		options: {
 			position: 'bottomright'
@@ -225,10 +241,10 @@ function createLegend(attributes) {
 			// create the control container with a particular class name
 			var container = L.DomUtil.create('div', 'legend-control-container');
 
-			container.innerHTML = '<h3 class="temporalLegend">Storm count in <span class="year">1960</span></h3>';
+			container.innerHTML = '<h3 class="temporalLegend" style = "font-family:Tahoma; color:white">Storm count in <span class="year">1960</span></h3>';
 
 			//Step 1: start attribute legend svg string
-			var svg = '<svg id="attribute-legend" width="130px" height="60px">';
+			var svg = '<svg id="attribute-legend" width="150px" height="100px">';
 
 			//array of circle names to base loop on
 			var circles = ["max", "mean", "min"];
@@ -241,22 +257,22 @@ function createLegend(attributes) {
 				var cy = 52 - radius;
 
 				//circle string  
-				svg += '<circle class="legend-circle" id="' + circles[i] + '" r="' + radius + '"cy="' + cy + '" fill="#F47821" fill-opacity="0.8" stroke="#000000" cx="35"/>';
+				svg += '<circle class="legend-circle" id="' + circles[i] + '" r="' + radius + '"cy="' + cy + '" fill="#ca5cdd" fill-opacity="0.8" stroke="#ffffff" cx="35"/>';
 
 				//Step 4: create legend text to label each circle     				          
 				var textY = i * 20 + 12;
-				svg += '<text id="' + circles[i] + '-text" x="70" y="' + textY + '">' + Math.round(dataStats[circles[i]] * 100) / 10 + '</text>';
-
+				svg += '<text id="' + circles[i] + '-text" x="90" y="' + textY + '">' + Math.round(dataStats[circles[i]] * 100) / 100 + '</text>';
 			};
 
 			//add annotation to include the values below threshold
-			svg += '<text x="70" y="65">(and below)</text>';
+			svg += '<text x="70" y="65"></text>';
 			svg += "</svg>";
-			svg += '<svg><circle class="legend-circle" id="nullCircle" r="' + minValue + '"cy="' + 10 + '" fill="#ffffff" fill-opacity="0.8" stroke="#000000" cx="35"/><text x="70" y="14">Zero or N/A</text></svg>';
+			svg += '<svg><circle class="legend-circle" id="nullCircle" r="10" cy="30" fill="#ffffff" fill-opacity="0.8" stroke="#000000" cx="35"/><text x="70" y="34" style = "fill:white; font-family: Tahoma">Zero or N/A</text></svg>';
 
 			//add attribute legend svg to container
 			container.insertAdjacentHTML('beforeend', svg);
-
+            container.style.width = "160px";
+            container.style.height = "200px";
 			return container;
 		}
 	});
@@ -289,9 +305,11 @@ function updateLegend(attribute) {
 		var radius = calcPropRadius(circleValues[key]);
 		document.querySelector("#" + key).setAttribute("cy", 52 - radius);
 		document.querySelector("#" + key).setAttribute("r", radius)
-		document.querySelector("#" + key + "-text").textContent = Math.round(circleValues[key] * 100) / 100 + " storms";
+		document.querySelector("#" + key + "-text").textContent = Math.round(circleValues[key] * 100) / 100 ;
 	}
 }
+
+
 
 /* standalone functions */
 
